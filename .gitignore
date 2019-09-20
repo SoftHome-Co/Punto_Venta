@@ -1,0 +1,5 @@
+vendor/
+.env
+$tf/
+$tf1/
+.ftpquota
