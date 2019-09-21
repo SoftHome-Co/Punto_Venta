@@ -1,8 +1,13 @@
 {
+"description" : "The CodeIgniter Application with Composer",
   "require" : {
-  	"php": "^5.6.38"
+  	"php": "^5.6.38",
+  	"codeigniter/framework": "3.0.*",
+	"myth/bay": "dev-develop"
   },
   "require-dev": {
-    "heroku/heroku-buildpack-php": "*"
+    "heroku/heroku-buildpack-php": "*",
+    "mikey179/vfsStream": "1.1.*"
   }
 }
+
