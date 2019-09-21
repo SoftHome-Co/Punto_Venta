@@ -1,9 +1,9 @@
 {
   "require" : {
-  	"php":"^5.6.0",
-  	"codeigniter":"^3.1.0",
     "silex/silex": "^2.0.4",
     "monolog/monolog": "^1.22",
+    "twig/twig": "^2.0",
+    "symfony/twig-bridge": "^3"
   },
   "require-dev": {
     "heroku/heroku-buildpack-php": "*"
